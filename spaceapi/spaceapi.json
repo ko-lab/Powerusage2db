@@ -1,0 +1,30 @@
+ {
+  "api": "0.13",
+  "space": "Ko-Lab Mechelen",
+  "logo": "https://ko-lab.space/images/logo.svg",
+  "url": "https://ko-lab.space/",
+  "location": {
+    "address": "Potterijstraat 5, 2800 Mechelen, Belgium",
+    "lon": 51.022163,
+    "lat": 4.482790
+  },
+  "contact": {
+    "email": "info@ko-lab.space",
+    "facebook": "https://www.facebook.com/HS.ko.lab/"
+  },
+  "issue_report_channels": [
+    "email"
+  ],
+  "state": {
+    "open": [[state]]
+  },
+  "sensors": {
+    "power_consumption": [
+      {
+        "value": [[power]],
+        "unit": "W",
+        "location": "space"
+      }
+    ]
+  }
+}
